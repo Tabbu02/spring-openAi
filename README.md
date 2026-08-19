@@ -25,3 +25,6 @@ Download from: https://ollama.ai
 ```bash
 ollama pull phi3
 ```
+
+---
+Made with ❤️ by Tabbu | [GitHub](https://github.com/Tabbu02/spring-openAi)
